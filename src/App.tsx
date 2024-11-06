@@ -15,7 +15,7 @@ function App() {
            {
             appName: 'Gate Wallet',
             name: 'Gate Wallet Lite',
-            imageUrl: 'https://raw.githubusercontent.com/bitgetwallet/download/main/logo/png/bitget_wallet_lite_logo.png',
+            imageUrl: 'https://gimg2.gateimg.com/tgwallet/1730688473495507406-Gatewallet.png',
             aboutUrl: 'https://web3.bitget.com',
             universalLink: 'https://t.me/gateio_dev_bot/tgwallet_test_env?attach=wallet',
             bridgeUrl: 'https://dapp.gateio.services/tonbridge_api/bridge/v1',
